@@ -1,1 +1,1 @@
-# Gamma-ray-timing-analysis-of-pulsar-J2021-3651-Dragonfly-
+# Gamma-ray-timing-analysis-of-pulsar-J2021-3651
